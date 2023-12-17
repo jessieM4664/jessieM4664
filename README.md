@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a software developer specializing in Java programming.
+I'm a software developer.
 
 Portfolio Website:
 https://jessiem4664.github.io/
